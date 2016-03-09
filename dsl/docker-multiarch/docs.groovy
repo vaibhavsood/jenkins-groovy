@@ -8,6 +8,7 @@ def images = [
 	'drupal',
 	'erlang',
 	'gcc',
+	'glassfish',
 	'haproxy',
 	'hello-world',
 	'httpd',
