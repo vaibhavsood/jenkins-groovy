@@ -2,6 +2,7 @@ import vars.multiarch
 
 def images = [
 	'alpine',
+	'bonita',
 	'buildpack-deps',
 	'busybox',
 	'debian',
