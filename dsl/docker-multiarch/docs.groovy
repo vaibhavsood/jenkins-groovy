@@ -14,6 +14,7 @@ def images = [
 	'httpd',
 	'irssi',
 	'java',
+	'jetty',
 	'memcached',
 	'perl',
 	'php',

@@ -13,6 +13,7 @@ def images = [
 	'hello',
 	'httpd',
 	'irssi',
+	'jetty',
 	'memcached',
 	'node',
 	'openjdk',
