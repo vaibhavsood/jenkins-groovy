@@ -5,6 +5,7 @@ def images = [
 	'bonita',
 	'buildpack-deps',
 	'busybox',
+	'crate',
 	'debian',
 	'drupal',
 	'erlang',
