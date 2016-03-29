@@ -15,6 +15,7 @@ def images = [
 	'httpd',
 	'irssi',
 	'java',
+	'kaazing-gateway',
 	'memcached',
 	'perl',
 	'php',

@@ -14,6 +14,7 @@ def images = [
 	'hello',
 	'httpd',
 	'irssi',
+	'kaazing-gateway',
 	'memcached',
 	'node',
 	'openjdk',
