@@ -25,6 +25,7 @@ def images = [
 	'r-base',
 	'rakudo-star',
 	'redis',
+	'registry',
 	'ruby',
 	'sentry',
 	'tomcat',
