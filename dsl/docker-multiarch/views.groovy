@@ -18,6 +18,7 @@ def images = [
 	'kaazing-gateway',
 	'memcached',
 	'node',
+	'nuxeo',
 	'openjdk',
 	'perl',
 	'php',

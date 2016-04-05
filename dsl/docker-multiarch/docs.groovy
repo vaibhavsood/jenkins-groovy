@@ -18,6 +18,7 @@ def images = [
 	'joomla',
 	'kaazing-gateway',
 	'memcached',
+	'nuxeo',
 	'perl',
 	'php',
 	'pypy',
